@@ -36,7 +36,7 @@
 
 ### 어플 화면
 
-![](https://drive.google.com/uc?=view&id=17jsQhAZaS3RQ9xXfH8IkCLw1y7J8E4c2)
+![로그인 페이지](https://drive.google.com/uc?=view&id=17jsQhAZaS3RQ9xXfH8IkCLw1y7J8E4c2)
 
 ## 🛠 기술 스택 (Tech Stack)
 
