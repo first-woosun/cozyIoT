@@ -36,7 +36,28 @@
 
 ### 어플 화면
 
-![로그인 페이지](https://drive.google.com/uc?=view&id=17jsQhAZaS3RQ9xXfH8IkCLw1y7J8E4c2)
+|<img src="https://drive.google.com/uc?=view&id=17jsQhAZaS3RQ9xXfH8IkCLw1y7J8E4c2" width="150">|<img src="https://drive.google.com/uc?=view&id=1lA0gRIY5d1O_RB8vT8zMnZlFXbF4HT9W" width="150">|<img src="https://drive.google.com/uc?=view&id=1thznlyBzEUwGRskbGBXaOh1QAAVP3uyU" width="150">|
+|---|---|---|
+|로그인 페이지|회원가입 페이지|메인화면|
+
+|<img src="https://drive.google.com/uc?=view&id=13NxrDtoe22sUBc9HuozS6yStX6szIbvh" width="150">|<img src="https://drive.google.com/uc?=view&id=1cS_x3zX71YC_TdaJ573hZasjkgtYY97y" width="150">|<img src="https://drive.google.com/uc?=view&id=1qHMtg7B-QhPFK1TT6aVrD01ozO-y-JKW" width="150">|
+|---|---|---|
+|회원정보 수정|실내 환경 설정|장치 위치 설정|
+
+
+|<img src="https://drive.google.com/uc?=view&id=1aAf5A6ljviP2IHZrUuRcegFv0VZ_Bkgs" width="150">|
+|---|
+|장치 제어|
+
+### 상황 별 알람 발생
+<img src="https://drive.google.com/uc?=view&id=1zFZQFiSxGY-JEaZSLkrzpIXUyLOdypoh">
+
+### 장치 동작 시연
+
+**위치 설정**
+<video width="640" height="360" controls>
+    <source src="https://drive.google.com/file/d/1Z2i_EYemCwyQBfiN7T3T9D9nKxWt9X0Q/view?usp=drive_link">
+</video>
 
 ## 🛠 기술 스택 (Tech Stack)
 
