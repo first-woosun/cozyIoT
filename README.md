@@ -55,9 +55,7 @@
 ### 장치 동작 시연
 
 **위치 설정**
-<video width="640" height="360" controls>
-    <source src="https://drive.google.com/file/d/1Z2i_EYemCwyQBfiN7T3T9D9nKxWt9X0Q/view?usp=drive_link">
-</video>
+
 
 ## 🛠 기술 스택 (Tech Stack)
 
