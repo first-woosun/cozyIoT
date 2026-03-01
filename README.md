@@ -84,7 +84,7 @@
 
 <img src="https://github.com/user-attachments/assets/c5b47fb0-a361-448b-ba8e-4d325c5aa186">
 
-### 4-2. 식물 생장
+### 4-2. 식물 생장 관련
 
 **시나리오**
 
@@ -98,7 +98,7 @@
 
 ![Image](https://github.com/user-attachments/assets/4fa7fe8f-97f5-434d-983c-a2855dc18bbb)
 
-### 4-3. 가스 노출
+### 4-3. 가스 노출 관련
 
 **시나리오**
 
