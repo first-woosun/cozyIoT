@@ -3,7 +3,7 @@
 
 **한 줄 소개: 식물 생장 최적화 스마트 창문 시스템**
 
-## 📝 프로젝트 개요
+# 📝 프로젝트 개요
 
 **CozyIoT**는 바쁜 현대인들이 실내 식물을 보다 쉽게 키울 수 있도록 돕는 **IoT 기반 스마트 홈 가드닝 솔루션**입니다. 센서 데이터와 외부 기상 API를 결합한 지능형 자동 제어 시스템을 통해 식물 생장에 최적화된 환경을 유지하는 것을 목표로 합니다. 
 
@@ -15,6 +15,20 @@
 - **접근성:** 저비용·범용 부품을 활용한 누구나 설치 가능한 모듈형 제작
 
 - **정밀도:** 센서 측정값과 공공 기상 데이터(OpenWeatherMap)의 가중치 연산을 통한 정밀 제어
+
+## 🛠 기술 스택 (Tech Stack)
+
+### Development
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+- Min SDK: 30 / Target SDK: 35
+
+### Core Libraries & APIs
+- IoT / Messaging: Eclipse Paho MQTT (mqttv3, android.service) - MQTT 프로토콜 기반 통신
+- Location & Maps: Google Maps SDK, Google Play Services Location - 지도 표시 및 장치 위치 입력
+- Data Parsing: Gson - JSON 데이터 직렬화 및 역직렬화
+- Component Communication: LocalBroadcastManager - 앱 내 컴포넌트 간 로컬 브로드캐스트 통신
 
 ## ✨ 주요 기능 (Key Features)
 
@@ -107,20 +121,6 @@
 **동작**
 
 ![Image](https://github.com/user-attachments/assets/d3d05989-90d2-4b58-9a3c-468b594e614c)
-
-## 🛠 기술 스택 (Tech Stack)
-
-### Development
-
-- Language: Java
-- IDE: Android Studio
-- Min SDK: 30 / Target SDK: 35
-
-### Core Libraries & APIs
-- IoT / Messaging: Eclipse Paho MQTT (mqttv3, android.service) - MQTT 프로토콜 기반 통신
-- Location & Maps: Google Maps SDK, Google Play Services Location - 지도 표시 및 장치 위치 입력
-- Data Parsing: Gson - JSON 데이터 직렬화 및 역직렬화
-- Component Communication: LocalBroadcastManager - 앱 내 컴포넌트 간 로컬 브로드캐스트 통신
 
 ## ⚙️ 설치 및 실행 방법 (Getting Started)
 프로젝트를 로컬에서 실행하기 위한 방법입니다.
