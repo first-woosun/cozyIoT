@@ -34,7 +34,7 @@
 
 ## 🖼 스크린샷 및 데모 (Screenshots & Demo)
 
-### 어플 화면
+### 1. 어플 화면
 
 |<img src="https://drive.google.com/uc?=view&id=17jsQhAZaS3RQ9xXfH8IkCLw1y7J8E4c2" width="150">|<img src="https://drive.google.com/uc?=view&id=1lA0gRIY5d1O_RB8vT8zMnZlFXbF4HT9W" width="150">|<img src="https://drive.google.com/uc?=view&id=1thznlyBzEUwGRskbGBXaOh1QAAVP3uyU" width="150">|
 |---|---|---|
@@ -49,11 +49,11 @@
 |---|
 |장치 제어|
 
-### 상황 별 알람 발생
+### 2. 상황 별 알람 발생
 
 <img src="https://drive.google.com/uc?=view&id=1zFZQFiSxGY-JEaZSLkrzpIXUyLOdypoh">
 
-### 어플 동작 시연
+### 3. 어플 동작 시연
 
 **회원 가입**
 
@@ -69,9 +69,12 @@
 
 **와이파이 연결**
 
+<img src="https://github.com/user-attachments/assets/9bea0c7e-f660-4711-8f8e-5b681505da4c" />
 <img src="https://github.com/user-attachments/assets/2bf06461-ca5a-4ad1-bbed-76873bbddbd3">
 
-### 장치 동작 시연
+### 4. 장치 동작 시연
+
+### 4-1. 기본 동작
 
 **수동 제어**
 
@@ -81,10 +84,29 @@
 
 <img src="https://github.com/user-attachments/assets/c5b47fb0-a361-448b-ba8e-4d325c5aa186">
 
----
+### 4-2. 식물 생장
 
-**식물 생장**
+**시나리오**
 
+<img width="655" height="325" alt="Image" src="https://github.com/user-attachments/assets/81125126-57f4-446e-a857-cc83009da8ae" />
+
+**열기**
+
+![Image](https://github.com/user-attachments/assets/bfd7ac6e-377f-4be0-956d-235cd9e5278e)
+
+**닫기**
+
+![Image](https://github.com/user-attachments/assets/4fa7fe8f-97f5-434d-983c-a2855dc18bbb)
+
+### 4-3. 가스 노출
+
+**시나리오**
+
+<img width="674" height="255" alt="Image" src="https://github.com/user-attachments/assets/2220687e-3309-4a71-b7b6-7b3a5a482594" />
+
+**동작**
+
+![Image](https://github.com/user-attachments/assets/d3d05989-90d2-4b58-9a3c-468b594e614c)
 
 ## 🛠 기술 스택 (Tech Stack)
 
