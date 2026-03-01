@@ -53,7 +53,7 @@
 
 <img src="https://drive.google.com/uc?=view&id=1zFZQFiSxGY-JEaZSLkrzpIXUyLOdypoh">
 
-### 장치 동작 시연
+### 어플 동작 시연
 
 **회원 가입**
 
@@ -70,6 +70,21 @@
 **와이파이 연결**
 
 <img src="https://github.com/user-attachments/assets/2bf06461-ca5a-4ad1-bbed-76873bbddbd3">
+
+### 장치 동작 시연
+
+**수동 제어**
+
+<img src="https://github.com/user-attachments/assets/d9a9eb6e-3dfe-410d-843b-7abfafcf776c">
+
+**자동 제어(강우)**
+
+<img src="https://github.com/user-attachments/assets/c5b47fb0-a361-448b-ba8e-4d325c5aa186">
+
+---
+
+**식물 생장**
+
 
 ## 🛠 기술 스택 (Tech Stack)
 
