@@ -50,12 +50,26 @@
 |장치 제어|
 
 ### 상황 별 알람 발생
+
 <img src="https://drive.google.com/uc?=view&id=1zFZQFiSxGY-JEaZSLkrzpIXUyLOdypoh">
 
 ### 장치 동작 시연
 
+**회원 가입**
+
+<img src="https://github.com/user-attachments/assets/218881c7-3023-4d1a-881f-1a10ff9e86f2" width="200">
+
+**회원 정보 수정**
+
+<img src="https://github.com/user-attachments/assets/5147be78-110d-42d7-ad6d-278c98488451" width="200">
+
 **위치 설정**
 
+<img src="https://github.com/user-attachments/assets/7b69f3ef-e550-4554-811b-e708224e1a08" width="200">
+
+**와이파이 연결**
+
+<img src="https://github.com/user-attachments/assets/2bf06461-ca5a-4ad1-bbed-76873bbddbd3">
 
 ## 🛠 기술 스택 (Tech Stack)
 
